@@ -1,0 +1,73 @@
+{
+  "court": "深圳市光明区人民法院",
+  "stage": "民事一审立案",
+  "source_page": "https://qr61.cn/oNLlyz/q7xr63y",
+  "source_title": "光明法院诉讼材料模板",
+  "retrieved_on": "2026-09-28",
+  "verification": "页面标题、原始文件名、起诉状预览落款及文件格式标识；未逐份核验正文",
+  "files": [
+    {
+      "name": "民事起诉状模板.doc",
+      "path": "01-起诉状（必交，按案件类型选用）/民事起诉状模板.doc",
+      "source_url": "https://ncstatic.clewm.net/rsrc/2025/1124/12/0029f5fe42e3424e8f885c5222aa50ca.doc",
+      "bytes": 23040,
+      "sha256": "4c562cc2a7161a8a9a73a06c729b7167d68cd264fcf138ac86cf65ebe771887a"
+    },
+    {
+      "name": "证据目录及说明.pdf",
+      "path": "03-证据材料及目录/证据目录及说明.pdf",
+      "source_url": "https://ncstatic.clewm.net/rsrc/2025/1124/12/5ad82c2b573d4a719e22dbdd94c284f7.pdf",
+      "bytes": 443968,
+      "sha256": "34d0ccb7f0090eb039beb9eddf3d0877000523ace649a57d0bf5ec43b2b85498"
+    },
+    {
+      "name": "被告送达地址线索书.pdf",
+      "path": "04-送达地址及联系信息（按本院要求）/被告送达地址线索书.pdf",
+      "source_url": "https://ncstatic.clewm.net/rsrc/2025/1124/12/3ac36e757abb48f4bdf26b6eaaf3f516.pdf",
+      "bytes": 279958,
+      "sha256": "faf5df24251f1735a34894ce6967e9dd4bcd7cecaa3b8d3e6c49b4fb6b1a4735"
+    },
+    {
+      "name": "诉讼文书(电子)送达地址确认书.doc",
+      "path": "04-送达地址及联系信息（按本院要求）/诉讼文书(电子)送达地址确认书.doc",
+      "source_url": "https://ncstatic.clewm.net/rsrc/2025/1124/12/f8ea9f24ffce43db836c9546f91cce55.doc",
+      "bytes": 57344,
+      "sha256": "be7faeab3c5035966f6c3e96dd5ccbb9e3d3ca0ad7cf396a2d401edc52433954"
+    },
+    {
+      "name": "原告公司诉讼文书(电子)送达地址确认书.pdf",
+      "path": "04-送达地址及联系信息（按本院要求）/原告公司诉讼文书(电子)送达地址确认书.pdf",
+      "source_url": "https://ncstatic.clewm.net/rsrc/2025/1124/12/4a554613d60947c6b3a9fdd329e48289.pdf",
+      "bytes": 255975,
+      "sha256": "7e9debe7710095b0663a5d0d54b8f655f35ea2d0eccabb5f03f8096f7ae93bd9"
+    },
+    {
+      "name": "原告自然人诉讼文书(电子)送达地址确认书.pdf",
+      "path": "04-送达地址及联系信息（按本院要求）/原告自然人诉讼文书(电子)送达地址确认书.pdf",
+      "source_url": "https://ncstatic.clewm.net/rsrc/2025/1124/12/c964fd656f7b4224b9d3c627f1a37adc.pdf",
+      "bytes": 246063,
+      "sha256": "498c7b1eb4f29e9f28032ee69613c8480f142ce8681587af434daf07e26b626b"
+    },
+    {
+      "name": "当事人提交材料清单.pdf",
+      "path": "10-材料递交及收款账户（按本院要求）/当事人提交材料清单.pdf",
+      "source_url": "https://ncstatic.clewm.net/rsrc/2025/1124/12/68c830a05fbd48e99474b4544a8d09db.pdf",
+      "bytes": 415905,
+      "sha256": "bac7c45a879f5c073694f55effbf4d8a43c87e6a021e22f20dce996d15a8907b"
+    },
+    {
+      "name": "深圳市光明区人民法院收款人账户确认书.docx",
+      "path": "10-材料递交及收款账户（按本院要求）/深圳市光明区人民法院收款人账户确认书.docx",
+      "source_url": "https://ncstatic.clewm.net/rsrc/2025/1124/12/c4d8d2e31d8e44f094a17e16f07f9799.docx",
+      "bytes": 15087,
+      "sha256": "3c0d0ef5b7f4c9f0ecab6318f313adedf86172e7bbdd21a048e41f19e3214ba0"
+    },
+    {
+      "name": "深圳市光明区人民法院收款人账户确认书.pdf",
+      "path": "10-材料递交及收款账户（按本院要求）/深圳市光明区人民法院收款人账户确认书.pdf",
+      "source_url": "https://ncstatic.clewm.net/rsrc/2025/1124/12/008bd846d9b04d469ee40409f1f56b6e.pdf",
+      "bytes": 111517,
+      "sha256": "ae4fbe10930168be87de70fe0bb3086213dcbb6231cd17e39fc42a5cae40588e"
+    }
+  ]
+}
